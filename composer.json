@@ -1,0 +1,12 @@
+{
+    "name": "rupam/calculator",
+    "description": "Demo-package to show time",
+    "authors": [
+        {
+            "name": "Rupam",
+            "email": "rupam@webcomipl.net.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
